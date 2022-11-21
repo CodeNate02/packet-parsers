@@ -1,5 +1,5 @@
 # packet-parsers
-Two Python-based scripts to compute metrics from a set of packet captures created in Spring 2021 as assignments for the course "Task Automation using Interpretive Languages"
+Two Python scripts to compute metrics from a set of packet captures created in Spring 2021 as assignments for the course "Task Automation using Interpretive Languages"
 # Group Project Version
 The group project version of this assignment was completed as a group of 4 students.  We split the 3 "parts" of the assignment (Filtering, Analyzing, and Metrics) into teams.  I worked on the computing section of the assignment.  (Visible in compute_metrics.py).
 After the group turned in a completed version of the assignment, the team let me persue the extra-credit version of the project and rework our Analysis script to read the raw hex data from the packets.  (Visible in the uncommented portion of packet_parser.py)
